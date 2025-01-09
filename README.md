@@ -29,3 +29,7 @@ This mobile application is designed for health-conscious users who want quick an
 3. **Display Nutritional Information**: After scanning, the app displays the product's nutritional data, including sugar content, allergens, and other nutrients.
 4. **Personalized Warnings**: Users with medical conditions (e.g., diabetes) will receive warnings if a scanned product exceeds safe nutritional limits.
 5. **Data Storage and Retrieval**: Scanned product data is securely stored in Firebase Firestore and associated with the user's account. The app also retrieves previous scans and medical condition information during login.
+
+## Changes to be made
+
+**Add your own google api key in given file directory: Food_Scanner/app/google-services.json**
